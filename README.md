@@ -2,6 +2,9 @@
 
 - [Remix Docs](https://remix.run/docs)
 
+## Design
+[Design](https://www.figma.com/file/Y4DWT5U5N5HQwSnD3H8ZbC/DriveHoster?type=design&node-id=0%3A1&mode=design&t=VNe796lWxGqPU1cm-1)
+
 ## Development
 
 From your terminal:
